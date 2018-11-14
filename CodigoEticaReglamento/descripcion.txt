@@ -1,0 +1,4 @@
+Equipo: RockeTecs
+Integrantes: Jose Javier Vega, Lorenzo Jacome, Alfredo Palacios, Diego Velazquez, Diego Garcia
+
+Hicimos una presentacion sobre el codigo de etica de la ACM y lo aplicamos al caso de filtrado de informacion de Facebook.
